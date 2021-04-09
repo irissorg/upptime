@@ -6,6 +6,28 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: Iriss
     url: https://www.iriss.org.uk
+  - name: Iriss Blogs
+    url: https://blogs.iriss.org.uk/rural-social-work-scotland
+  - name: Iriss.fm
+    url: https://podcast.iriss.org.uk
+  - name: Iriss.fm transcripts
+    url: https://transcripts.podcast.iriss.org.uk
+  - name: The Learning Exchange
+    url: https://lx.iriss.org.uk
+  - name: Mindreel
+    url: https://mindreel.org.uk
+  - name: Creative Covid Care
+    url: https://www.creativecovidcare.com
+  - name: Research Unbound
+    url: https://www.researchunbound.org.uk
+  - name: Iriss Content
+    url: https://content.iriss.org.uk
+  - name: LGBT people and public services
+    url: https://www.lgbtgoodpractice.org.uk
+  - name: NAPC
+    url: https://napc.scot
+  - name: TEC
+    url: https://tec.scot
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
