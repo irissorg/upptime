@@ -202,17 +202,17 @@
     "url": "https://tec.scot",
     "icon": "https://favicons.githubusercontent.com/tec.scot",
     "slug": "tec",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 722,
-    "timeDay": 4958,
-    "timeWeek": 1323,
-    "timeMonth": 796,
-    "timeYear": 722,
+    "time": 720,
+    "timeDay": 2689,
+    "timeWeek": 1210,
+    "timeMonth": 784,
+    "timeYear": 720,
     "dailyMinutesDown": {}
   }
 ]
